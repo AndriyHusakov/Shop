@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.case1 {
+    width: 1400px;
+    height: 96px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    background: #ffffff;
+    border-radius: 10px;
+    border: solid;
+}
+
+img {
+    height: 40px;
+    margin-left: 101px;
+}
+
+.tex1 {
+    display: flex;
+    margin-left: 336px;
+    margin-top: -57px;
+    text-align: center;
+    gap: 80px;
+
+    font-family: 'Comfortaa', cursive;
+}
+
+input {
+    width: 180px;
+    height: 31px;
+    border-radius: 10px;
+    margin-top: -5px;
+}
+
+.img1 {
+    height: 20px;
+}
+
+.ikon {
+    position: absolute;
+    margin-top: -37px;
+    margin-left: 100px;
+}
